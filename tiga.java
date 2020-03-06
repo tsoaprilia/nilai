@@ -31,14 +31,14 @@ public class tiga  extends lima{
          System.out.println(" ");
          for(int b=0;b<org;b++){
              System.out.print("Nama anak ke "+(b+1)+"    = ");
-             mapel[b]=baca.nextLine();
+             nama[b]=baca.nextLine();
              nama[b]=baca.next();
           
          }
          System.out.println(" ");
          for(int b=0;b<org;b++){
              System.out.print("kelas anak ke "+(b+1)+"    = ");
-             mapel[b]=baca.nextLine();
+             kelas[b]=baca.nextLine();
              kelas[b] =baca.next();
            
          }
